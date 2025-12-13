@@ -1,0 +1,35 @@
+# Site settings
+title: "Bartosz Smuga's Technical Blog"
+description: "Technical Blog focused on Transformer architectures and AI research"
+author: "Bartosz Smuga"
+email: "bartosz.smuga11@gmail.com"
+url: "https://bsmuga.github.io"
+baseurl: ""
+
+# Build settings
+markdown: kramdown
+highlighter: rouge
+
+# GitHub Pages settings
+theme: minima
+plugins:
+  - jekyll-feed
+  - jekyll-sitemap
+
+# Navigation
+nav_links:
+  - title: "Archive"
+    url: "/archives"
+  - title: "Search" 
+    url: "/search"
+  - title: "Tags"
+    url: "/tags"
+  - title: "Contact"
+    url: "mailto:bartosz.smuga11@gmail.com"
+
+# Exclude from build
+exclude:
+  - README.md
+  - LICENSE
+  - Gemfile
+  - Gemfile.lock
