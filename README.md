@@ -1,20 +1,23 @@
-# Bartosz Smuga's Technical Blog
+# Technical Basics
 
-Technical Blog focused on Transformer architectures and AI research.
+This is my personal technical blog where I document my explorations of interesting technical topics. Here I share my notes, insights, and thoughts from deep dives into papers, books, and technical concepts that fascinate me. I just want to motivate myself to put them down 😄
 
-## Content
+## What you'll find here
 
-This Technical Blog features comprehensive analysis of:
-- The Transformer Family Version 2.0
-- Original Transformer Family deep dive
-- AI architecture improvements and research
+- **Technical analysis** of foundational papers like "Attention Is All You Need"
+- **Book explorations** covering works like "Crafting Interpreters" 
+- **Mathematical details** and implementation insights often overlooked in typical tutorials
+- **Weekend coding experiments** with accompanying repositories
+- **Learning notes** from my journey through complex technical concepts
 
-## Features
+## Philosophy
 
-- Simplified navigation (Archive, Search, Tags, Contact)
-- Clean, academic-focused design
-- GitHub Pages compatible
-- Mobile responsive
+These posts represent concept exploration combined with hands-on experimentation and implementation that will be placed in the separate repositories.
+
+## Live site
+
+The blog is hosted at: [https://bsmuga.github.io/](https://bsmuga.github.io/)
+The blog format was copied with help of AI from [Lil'Log](https://lilianweng.github.io/) which itself is really interesting blog.
 
 ## Contact
 
