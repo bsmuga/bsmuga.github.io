@@ -1,6 +1,6 @@
-# Technical Basics
+# B'log
 
-This is my personal technical blog where I document my explorations of interesting technical topics. Here I share my notes, insights, and thoughts from deep dives into papers, books, and technical concepts that fascinate me. I just want to motivate myself to put them down 😄
+This is my personal technical B'log where I document my explorations of interesting technical topics. Here I share my notes, insights, and thoughts from deep dives into papers, books, and technical concepts that fascinate me. I just want to motivate myself to put them down 😄
 
 ## What you'll find here
 
@@ -16,8 +16,8 @@ These posts represent concept exploration combined with hands-on experimentation
 
 ## Live site
 
-The blog is hosted at: [https://bsmuga.github.io/](https://bsmuga.github.io/)
-The blog format was copied with help of AI from [Lil'Log](https://lilianweng.github.io/) which itself is really interesting blog.
+The B'log is hosted at: [https://bsmuga.github.io/](https://bsmuga.github.io/)
+The B'log format was copied with help of AI from [Lil'Log](https://lilianweng.github.io/) which itself is really interesting B'log.
 
 ## Contact
 
