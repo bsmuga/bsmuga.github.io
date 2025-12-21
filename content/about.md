@@ -6,17 +6,13 @@ title = 'About Me'
 
 # Hi, I'm Bartek Smuga
 
-Welcome to my personal website. I write about my learning process in topics that interest me, including statistics, data science, and programming language interpreters.
+Hi, I’m Bartek Smuga.
 
-## Interests
-
-- Data Science and Machine Learning  
-- Statistics and Statistical Modeling  
-- Programming Language Interpreters and Compilers
+I write about topics that interest me, such as statistics, data science, and programming languages.
 
 
 ## Contact
 
 Feel free to reach out to me at:
-- Email: [bartosz.smuga11@gmail.com](bartosz.smuga11@gmail.com)
-- GitHub: [[github.com/yourusername](https://github.com/bsmuga)]
+- Email: bartosz.smuga@outlook.com
+- GitHub: [https://github.com/bsmuga](https://github.com/bsmuga)
