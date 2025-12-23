@@ -6,7 +6,7 @@ title = 'About Me'
 
 Hi, I’m Bartek Smuga.
 
-This blog is primarily dedicated to exploring topics related to statistics and data science, especially these that I find interesting or that I consider practical, as they yield insight into certain problems.
+This blog is primarily dedicated to exploring topics related to statistics and data science, especially those that I find interesting or that I consider practical, as they yield insight into certain problems.
 
 In addition to these interests, I’m also fascinated by building tools like interpreters and understanding how programming languages work under the hood, inspired by the book [Crafting Interpreters](https://craftinginterpreters.com/contents.html). 
 One day, I hope to write a small interpreter with its own statistical/data science library.
