@@ -5,12 +5,12 @@ theme = 'hermit-v2'
 
 [menu]
   [[menu.main]]
-    name = 'About'
-    url = '/about/'
-    weight = 10
-  [[menu.main]]
     name = 'Posts'
     url = '/posts/'
+    weight = 10
+  [[menu.main]]
+    name = 'About'
+    url = '/about/'
     weight = 20
   
 [caches]
